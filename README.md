@@ -2,7 +2,7 @@
 
 The City Year Automation library is an effort to create a toolbox of automation scripts for solving various problems faced
 by Impact Analytics points. Users of this library will need some basic understanding of Python, but the design of the 
-library is such that most of the coding is already done in some wrapper functions.  An IA point trying to implament these
+library is such that most of the coding is already done in some wrapper functions.  An IA point trying to implement these
 tools should typically just need to write some small functions for their specific use case and perhaps load some data into a
 specified format in Excel.
 
