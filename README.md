@@ -6,7 +6,7 @@ library is such that most of the coding is already done in some wrapper function
 tools should typically just need to write some small functions for their specific use case and perhaps load some data into a
 specified format in Excel.
 
-To dive into the tools, navigate into cyautomation and then select the relavant folder. A brief description of each tool is below,
+To dive into the tools, navigate into cyautomation and then select the relevant folder. A brief description of each tool is below,
 but more detailed read me files exist for each product in their respective folders.  
 
 ## Table of Contents
